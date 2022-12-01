@@ -1,2 +1,2 @@
 #!/ban/bash
-chmod ugo+x hello
+chmod ugo+ x hello
