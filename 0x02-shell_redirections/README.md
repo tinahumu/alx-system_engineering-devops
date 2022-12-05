@@ -1,1 +1,1 @@
-dupliacte
+delete
